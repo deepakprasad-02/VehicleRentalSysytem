@@ -1,6 +1,6 @@
 Full stack Java application for managing Vehicle rentals.
 
-Details of the problem statement and overall details of the methods are specified in the [requirements.docx]()
+Details of the problem statement and overall details of the methods are specified in the [requirements.docx](https://github.com/deepakprasad-02/VehicleRentalSysytem/blob/master/Requirements.docx)
 
 Technology stack
 * Java 1.8
