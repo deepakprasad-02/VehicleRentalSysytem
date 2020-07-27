@@ -11,7 +11,7 @@ Steps to set-up this application in your local Eclipse IDE
 * Open Eclipse IDE
 * Go to 'File' and select 'Import' in the list.
 * Under General, select 'Exsisting Projects into Workspace' and click on Next.
-* Choose 'Select archive file' radio button and choose the downloaded zip file from this repository.
+* Choose 'Select archive file' radio button and choose the downloaded [zip file](https://github.com/deepakprasad-02/VehicleRentalSysytem/blob/master/ThirftyRent.zip) from this repository.
 * Click on 'Finish', project will appear on your explorer window.
 
 To launch the application, Navigate 
